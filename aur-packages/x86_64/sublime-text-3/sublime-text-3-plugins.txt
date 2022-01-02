@@ -1,0 +1,50 @@
+
+
+ColorPicker
+CSScomb
+golangconfig
+LocalizedMenu
+Terminal
+TypeScript
+TypescriptCompletion
+TypeScript Syntax
+Alignment
+C++11
+C# Compile & Run
+CSS3
+Emmet
+Git
+Gitignore
+Golang
+Golang Build
+HTML5
+HTMLAttributes
+MarkdownEditing
+PackageResourceViewer
+Python 3
+Python Checker
+Python Completions
+SublimeEnhancedUtilitiesSet
+Sublime Text 3 Snippets
+Trimmer
+
+
+Package Control
+
+
+
+/home/mikl/.config/sublime-text-3/Packages/User/Preferences.sublime-settings
+
+{
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"remember_open_files": true,
+	"tab_size": 4,
+	"trim_trailing_white_space_on_save": false
+}
+
+
